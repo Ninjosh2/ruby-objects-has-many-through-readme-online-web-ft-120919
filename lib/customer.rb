@@ -14,6 +14,6 @@ class Customer
   end 
   
   def meals 
-    Meal.all
+    Meal.all.select
   
 end
