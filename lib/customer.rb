@@ -14,6 +14,21 @@ class Customer
   end 
   
   def meals 
-    Meal.all.select
+    Meal.all.select do |meal| 
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
   
 end
