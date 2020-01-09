@@ -13,6 +13,7 @@ class Customer
     @@all 
   end 
   
-  def meals
+  def meals 
+    Meal.all
   
 end
