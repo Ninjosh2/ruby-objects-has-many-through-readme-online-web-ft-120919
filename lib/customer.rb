@@ -9,6 +9,6 @@ class Customer
     @@all << self 
   end 
   
-  
+  def self.all 
   
 end
