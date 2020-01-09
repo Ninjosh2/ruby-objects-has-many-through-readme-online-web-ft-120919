@@ -3,6 +3,6 @@ class Customer
   
   @@all = [] 
   
-  def initialize
+  def initialize(name, age) 
   
 end
