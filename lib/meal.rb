@@ -7,6 +7,6 @@ class Meal
     @waiter = waiter
     @customer = customer 
     @total = total 
-    
+    @tip = 
 
 end
